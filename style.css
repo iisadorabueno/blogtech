@@ -10,10 +10,11 @@ header{
 main{
     background-color: #FFFFFF
     color:#183c63
-    text-align:center;
+    te:center;
     max-width: 880px;
     margin: 0 auto;
     padding: 16px;
+
 }
 article{
     display: flex;
